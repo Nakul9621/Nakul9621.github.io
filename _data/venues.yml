@@ -5,5 +5,9 @@
 "Ann. Phys.":
   url: "https://www.sciencedirect.com/journal/annals-of-physics"
   color: "#009f36"
+
+"COMSNETS":
+  url: "https://www.comsnets.org/"
+  color: "#C9A227"
   
 
